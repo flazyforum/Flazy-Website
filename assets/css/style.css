@@ -1,0 +1,97 @@
+@import 'https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700|Oswald:300,400&subset=latin-ext';
+body {
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+}
+
+main {
+  flex: 1 0 auto;
+}
+
+nav .brand-logo {
+  color: #66cccc;
+  font-family: 'Oswald', sans-serif;
+  font-weight: 300;
+}
+nav ul a{
+  color: #fff;
+}
+nav ul a:hover{
+    background-color: #fff!important;
+    color: #ff6c2c;
+    -webkit-transition: color .25s ease;
+    transition: color .25s ease;
+}
+nav ul li{
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+}
+nav ul li.active  {
+    background-color: #fff;
+
+}
+nav ul li a.active  {
+    color: #ff6c2c!important;
+}
+p {
+  line-height: 2rem;
+}
+.flazy-color{
+  background: #293a4a!important;
+}
+.download-flazy {
+    background: #293a4a!important;
+}
+.download-flazy:hover {
+    background: #ff6c2c!important;
+}
+.flazy-text{
+  color: #293a4a;
+}
+.button-collapse {
+  color: #26a69a;
+}
+
+.parallax-container {
+  min-height: 380px;
+  line-height: 0;
+  height: auto;
+  color: rgba(255,255,255,.9);
+}
+  .parallax-container .section {
+    width: 100%;
+  }
+.parallax img {
+-webkit-filter: blur(4px);
+    -moz-filter: blur(4px);
+    -o-filter: blur(4px);
+    -ms-filter: blur(4px);
+    filter: blur(4px);
+}
+@media only screen and (max-width : 992px) {
+  .parallax-container .section {
+    position: absolute;
+    top: 40%;
+  }
+  #index-banner .section {
+    top: 10%;
+  }
+}
+
+@media only screen and (max-width : 600px) {
+  #index-banner .section {
+    top: 0;
+  }
+}
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+  font-size: inherit;
+}
+
+footer.page-footer {
+  margin: 0;
+}
