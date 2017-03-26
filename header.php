@@ -12,17 +12,17 @@
 	<meta property="og:title" content="Flazy - An open world "/>
 	<meta property="og:type" content="website"/>
 	<meta property="og:url" content="https://flazy.org/"/>
-	<meta property="og:image" content="https://flazy.org/img/logo_big.jpg"/>
+	<meta property="og:image" content="https://flazy.org/images/"/>
 	<meta property="og:description" content="© Flazy - Open source bulletin board. It is one of the fastes and secure php based forum system."/>
 	<meta name="twitter:domain" content="https://flazy.org/"/>
 	<meta name="twitter:card" content="summary" />
 	<meta name="twitter:site" content="@flazyforum" />
 	<meta name="twitter:title" content="Flazy - Open source bulletin board" />
 	<meta name="twitter:description" content="© Flazy - Open source bulletin board. It is one of the fastes and secure php based forum system." />
-	<meta name="twitter:image" content="https://flazy.org/img/logo_big.jpg" />
+	<meta name="twitter:image" content="https://flazy.org/images/" />
   <!-- CSS  -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-  <link href="assets/css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
-  <link href="assets/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection"/>
+  <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
   <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>

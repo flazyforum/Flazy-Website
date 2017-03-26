@@ -39,7 +39,7 @@
 
       </div>
     </div>
-    <div class="parallax"><img src="assets/background1.jpg" alt="Unsplashed background img 1"></div>
+    <div class="parallax"><img src="background1.jpg" alt="images/slider/Unsplashed background img 1"></div>
   </div>
 
 
