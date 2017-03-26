@@ -8,6 +8,7 @@
 	<meta name="keywords" content="flazy, flazyboard, php, mysql, forum, discussion, bbs, bulletin, board, free, software, community, chat, flazy us, flazy us, flazy us, flazy на български, Styles, Flazy"/>
 	<meta name="Copyright" content="&copy; 2015-2017 flazy.org. All right reserved."/>
 	<meta name="Robots" content="index,follow"/>
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
 	<meta name="Revisit-After" content="1 Hours"/>
 	<meta property="og:title" content="Flazy - An open world "/>
 	<meta property="og:type" content="website"/>

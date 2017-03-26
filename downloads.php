@@ -56,7 +56,7 @@
                 <p>This is stable version of Flazy. It was released on date. Once you have downloaded Flazy you can easy install it, but if you have problems with it, we have a complete installation guide to help you through the setup process.</p>
             </div>
             <div class="card-action">
-                <a class="waves-effect waves-light btn download-flazy " href="https://github.com/flazyforum/Flazy-Forum/archive/0.7.1.zip"><i class="material-icons left">file_download</i>Zip Flazy 0.7.1, 900KB</a>
+                <a class="waves-effect waves-light btn download-flazy " href="https://github.com/flazyforum/flazy-forum/archive/0.7.1.zip"><i class="material-icons left">file_download</i>Zip Flazy 0.7.1, 900KB</a>
              </div>
           </div>
         </div>
@@ -67,7 +67,7 @@
                 <p>This is alpha version of Flazy. It was released on date. Once you have downloaded Flazy you can easy install it, but if you have problems with it, we have a complete installation guide to help you through the setup process.</p>
             </div>
             <div class="card-action">
-                <a class="waves-effect waves-light btn download-flazy" href="https://github.com/flazyforum/Flazy-Forum/archive/master.zip"><i class="material-icons left">file_download</i>Zip Flazy 0.7.2-Alpha, 6.2MB</a>
+                <a class="waves-effect waves-light btn download-flazy" href="https://github.com/flazyforum/flazy-forum/archive/master.zip"><i class="material-icons left">file_download</i>Zip Flazy 0.7.2-Alpha, 6.2MB</a>
             </div>
           </div>
         </div>

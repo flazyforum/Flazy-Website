@@ -33,13 +33,13 @@
             <h5 class="header col s12 light" style="text-shadow: 0px 0px 2px rgb(0, 0, 0);">Light, fast and easy forum system based on Material Design</h5>
         </div>
         <div class="row center">
-          <a href="https://github.com/flazy-forum/Flazy-Forum/archive/0.7.1.zip" id="download-button" class="btn-large waves-effect waves-light flazy-color lighten-1">Download</a>
+          <a href="https://github.com/flazyforum/flazy-forum/archive/0.7.1.zip" id="download-button" class="btn-large waves-effect waves-light flazy-color lighten-1">Download</a>
         </div>
         <br><br>
 
       </div>
     </div>
-    <div class="parallax"><img src="background1.jpg" alt="images/slider/Unsplashed background img 1"></div>
+    <div class="parallax"><img src="images/slider/background1.jpg" alt="Unsplashed background img 1"></div>
   </div>
 
 
