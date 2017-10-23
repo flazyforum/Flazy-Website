@@ -1,9 +1,9 @@
 RewriteEngine On
 RewriteBase /
-RewriteRule ^downloads$ /downloads.php [L]
-RewriteRule ^news$ /news.php [L]
-RewriteRule ^docs$ /documentation.php [L]
-RewriteRule ^about$ /about.php [L]
+RewriteRule ^downloads$ /downloads.html [L]
+RewriteRule ^news$ /news.html [L]
+RewriteRule ^docs$ /documentation.html [L]
+RewriteRule ^about$ /about.html [L]
 
 ## EXPIRES CACHING ##
 <IfModule mod_expires.c>

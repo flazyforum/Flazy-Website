@@ -2,16 +2,10 @@
 This is the source code of our official website. You can help if you want.
 
 ##To-Do List
-- [ ] Contact Form
-- [ ] Automaticly generated sitemap
 - [ ] Making the website multy-lang. Starting with (EN/BG)
-- [ ] Blog 
 
-
- 
  ## Requirements
  - A webserver
- - PHP 5 and up
 
 ## Browser Support
 
