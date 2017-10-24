@@ -3,6 +3,7 @@ This is the source code of our official website. You can help if you want.
 
 ##To-Do List
 - [ ] Making the website multy-lang. Starting with (EN/BG)
+- [ ] Blog system
 
  ## Requirements
  - A webserver
@@ -15,6 +16,5 @@ This is the source code of our official website. You can help if you want.
 IE 9+ ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 
 ## Links
- - [Documentation](http://flazy.org/wiki/)
  - [Twitter](https://twitter.com/flazyforum)
  - [Development](https://github.com/flazyforum/Flazy-Website)
