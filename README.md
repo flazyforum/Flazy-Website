@@ -2,8 +2,7 @@
 This is the source code of our official website. You can help if you want.
 
 ##To-Do List
-- [ ] Making the website multy-lang. Starting with (EN/BG)
-- [ ] Blog system
+- [ ] Updating information about everything
 
  ## Requirements
  - A webserver
