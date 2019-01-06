@@ -6,8 +6,8 @@ This is the source code of our official website. You can help if you want.
 
 ## Browser Support
 
-![IE](https://mgknet.com/images/browsers/internet-explorer_48x48.png) | ![Chrome](https://mgknet.com/images/browsers/chrome_48x48.png) | ![Firefox](https://mgknet.com/images/browsers/firefox_48x48.png) | ![Opera](https://mgknet.com/images/browsers/opera_48x48.png) |
-![Safari](https://mgknet.com/images/browsers/safari_48x48.png)
+![IE](https://mgknet.com/wp-content/uploads/2019/01/explorer.png) | ![Chrome](https://mgknet.com/wp-content/uploads/2019/01/chrome.png) | ![Firefox](https://mgknet.com/wp-content/uploads/2019/01/mozilla.png) | ![Opera](https://mgknet.com/wp-content/uploads/2019/01/opera.png) |
+![Safari](https://mgknet.com/wp-content/uploads/2019/01/safari.png)
 --- | --- | --- | --- | --- |
 IE 9+ ✔ | Latest ✔ | Latest ✔ | Latest ✔ | Latest ✔ |
 
